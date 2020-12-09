@@ -17,3 +17,7 @@ The second task uses scipy.stats to verify a known Chi-squared value of 24.6 bas
 ## Task 3 - 16/11/2020
 ***
 For the third task, I research the Microsoft Excel functions `STDEV.S` and `STDEV.P`, writing a note about the difference between them. Then I use numpy to perform a simulation demonstrating that the `STDEV.S` calculation is a better estimate than `STDEV.P` for the standard deviation of a population when performed on a sample.
+
+## Task 4 - 30/11/2020
+***
+The fourth task involves implementing the k-means clustering technique with the famous iris data set. I describe the code I use to fit the data to the model, explaining the interative process of the algorithm, the process in selecting a value for k number of clusters and I also use my model to make predictions based on random data generated.
